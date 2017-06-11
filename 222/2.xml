@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding = "GBK"?>
+<interface>
+	<interface_common>
+	</interface_common>
+	<interface_head>
+	</interface_head>
+	<interface_body>
+		<bodys>
+			<StatusNo>02</StatusNo>
+			<StatusDesc>客户授权标示无效</StatusDesc>
+		</bodys>
+	</interface_body>
+</interface>
